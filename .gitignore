@@ -1,0 +1,10 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook-specific
+.ipynb_checkpoints/
+
+# Model-specific
+*.h5  # Model files
